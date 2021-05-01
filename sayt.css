@@ -1,0 +1,43 @@
+.vernagir{
+display: flex;
+justify-content: center;
+}
+.lion{
+    width: 200px; height: 200px; border-radius: 100%;
+}
+.animal{
+    display: flex;
+    align-items: center;
+  
+}
+.info{
+    width: 500px;
+    text-decoration: none;
+    color:rgb(9, 52, 247);
+
+transition: 0.5s;
+}
+.info:hover{
+color: crimson;
+transition: 0.5s;
+}
+.flex{
+ height: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+ 
+.pix{
+ float: left;
+ margin: 20px;
+ width: 200px;
+ height: 200px;
+}
+
+.sayt{
+  float: left;
+  margin: 20px;
+}
+
+
